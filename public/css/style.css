@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    background-color:burlywood;
+    height: 100vw;
+    align-items: center;
+}
+
+.flex-item {
+    display: flex;
+    background-color: orangered;
+    /* align-items: center; */
+    height: 125px;
+    margin: 5px;
+    padding: 25px;
+}
