@@ -1,15 +1,16 @@
+body {
+    background-color:burlywood;
+}
+
 .flex-container {
     display: flex;
-    background-color:burlywood;
-    height: 100vw;
+    height: 95vh;
     align-items: center;
 }
 
 .flex-item {
-    display: flex;
     background-color: orangered;
-    /* align-items: center; */
     height: 125px;
     margin: 5px;
-    padding: 25px;
+    padding: 45px;
 }
